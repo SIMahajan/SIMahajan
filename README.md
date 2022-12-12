@@ -19,8 +19,8 @@
   </b></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sagar mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar mahajan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dev mahajan dm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev mahajan dm" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/sagar-mahajan-264950245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar mahajan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@DevMahajanDM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev mahajan dm" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sagarmahajan8531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagarmahajan8531" height="30" width="40" /></a>
 </p>
 <h2 align="left">Skill's</h2>
